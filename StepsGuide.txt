@@ -1,0 +1,4 @@
+http://cysingsoft.wordpress.com/un-ejercicio-de-refactorizacion/
+
+
+http://cysingsoft.wordpress.com/2009/06/30/diseno-orientado-a-objetos-refactorizando-metodos-carlos-fontela/
