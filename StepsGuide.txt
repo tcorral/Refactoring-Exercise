@@ -1,4 +1,15 @@
+Que es lo que motiva la refactorización:
+* Hacer más simple el añadir nuevo código
+* Mejorar el diseño del código existente
+* Mejorar el entendimiento del código
+* Hacer el codificar menos molesto
+
+
+
 http://cysingsoft.wordpress.com/un-ejercicio-de-refactorizacion/
 
 
 http://cysingsoft.wordpress.com/2009/06/30/diseno-orientado-a-objetos-refactorizando-metodos-carlos-fontela/
+
+
+http://www.chuidiang.com/ood/refactoring/refactoring.php
